@@ -1,0 +1,161 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
+  <diagram id="P-FLB3ng-8zm5jahk_r2" name="Page-1">
+    <mxGraphModel dx="1980" dy="2296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-41" value="判断接收编码" style="strokeWidth=2;whiteSpace=wrap;html=1;shape=mxgraph.basic.octagon;rounded=1;shadow=0;glass=0;comic=0;fillColor=#FF3333;gradientColor=#ffffff;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="159" width="140" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-42" value="初始化" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="348" y="65" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-43" value="开始" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="347" y="-66" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-44" value="设置灯3亮" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="136" y="76" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-45" value="定时" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="127" y="183" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-46" value="设置灯全灭" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="556" y="184" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-47" value="设置灯1亮" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="554" y="297" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-48" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="423" y="-6" as="sourcePoint" />
+            <mxPoint x="423" y="64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-49" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="421" y="125" as="sourcePoint" />
+            <mxPoint x="421" y="161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-50" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;exitX=1.003;exitY=0.461;exitPerimeter=0;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="526" y="252" as="sourcePoint" />
+            <mxPoint x="555" y="212" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-51" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;exitX=0.713;exitY=1.005;exitPerimeter=0;entryX=0.001;entryY=0.483;entryPerimeter=0;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-41" target="FI8OPE-p3hhHVf1YDgqs-47" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="507" y="332" as="sourcePoint" />
+            <mxPoint x="557" y="282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-52" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="349" y="215" as="sourcePoint" />
+            <mxPoint x="287" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-53" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;exitX=0.002;exitY=0.275;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="231" as="sourcePoint" />
+            <mxPoint x="297" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="321" y="190" />
+              <mxPoint x="321" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-54" value="编码=0 代码=1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontFamily=Courier New;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="485" y="162" width="151" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-55" value="编码=0 代码=4" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontFamily=Courier New;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="326" y="124" width="102" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-56" value="编码=0 代码=3" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontFamily=Courier New;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="265" y="245" width="102" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-57" value="编码=0 代码=2" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontFamily=Courier New;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="468" y="260" width="102" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-58" value="设置指示灯2亮" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="303" y="314" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-59" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#000000;align=center;exitX=0.293;exitY=1.009;exitPerimeter=0;entryX=0.551;entryY=-0.009;entryPerimeter=0;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-41" target="FI8OPE-p3hhHVf1YDgqs-58" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="392" y="345" as="sourcePoint" />
+            <mxPoint x="442" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-60" value="判断定时ding=？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;comic=0;strokeColor=none;strokeWidth=2;fillColor=#FF3333;gradientColor=#ffffff;fontFamily=Courier New;fontSize=13;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="128" y="376" width="157" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-61" value="延时2秒时，指示灯1亮" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="465" y="431" width="217" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-62" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#000000;align=center;exitX=0.972;exitY=0.503;exitPerimeter=0;entryX=0;entryY=0.425;entryPerimeter=0;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-60" target="FI8OPE-p3hhHVf1YDgqs-61" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="351" y="481" as="sourcePoint" />
+            <mxPoint x="401" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-63" value="dingshi=1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontFamily=Courier New;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="314" y="435" width="82" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-64" value="延时5秒时，指示灯2亮" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="348" y="493" width="217" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-65" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#000000;align=center;exitX=0.972;exitY=0.503;exitPerimeter=0;entryX=-0.002;entryY=0.567;entryPerimeter=0;" parent="1" target="FI8OPE-p3hhHVf1YDgqs-64" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200.71428571428578" y="520.7142857142858" as="sourcePoint" />
+            <mxPoint x="348" y="522" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-66" value="dingshi=2" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontFamily=Courier New;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="218" y="523" width="82" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-67" value="延时30秒时，指示灯3亮" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="112" y="572" width="225" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-68" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#000000;align=center;exitX=0.022;exitY=0.505;exitPerimeter=0;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-60" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="151" y="579" as="sourcePoint" />
+            <mxPoint x="131" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-69" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#000000;align=center;entryX=0.501;entryY=0.021;entryPerimeter=0;" parent="1" target="FI8OPE-p3hhHVf1YDgqs-60" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="206" y="242" as="sourcePoint" />
+            <mxPoint x="258" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-70" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#000000;align=center;exitX=0.472;exitY=1.035;exitPerimeter=0;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-67" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="206" y="803" as="sourcePoint" />
+            <mxPoint x="218" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-71" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#000000;align=center;exitX=0.472;exitY=1.035;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="453.11764705882365" y="540.294117647059" as="sourcePoint" />
+            <mxPoint x="453" y="609" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-72" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#000000;align=center;exitX=0.472;exitY=1.035;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="677.1176470588234" y="481.294117647059" as="sourcePoint" />
+            <mxPoint x="677" y="549.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-73" value="控制3盏灯亮" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="144" y="691" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-74" value="控制3盏灯亮" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="626" y="552" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-75" value="控制3盏灯亮" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="380" y="612" width="159" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
