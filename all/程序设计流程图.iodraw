@@ -4,8 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jYo_8lnF2ttY8upIkaRI-36" value="Main" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="450" width="550" height="260" as="geometry" />
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-36" value="Main" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="80" y="450" width="70" height="30" as="geometry">
+            <mxRectangle x="80" y="450" width="550" height="260" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jYo_8lnF2ttY8upIkaRI-38" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-36">
           <mxGeometry y="20" width="550" height="120" as="geometry" />
