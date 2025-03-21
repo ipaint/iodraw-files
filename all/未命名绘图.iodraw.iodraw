@@ -41,19 +41,19 @@
         <mxCell id="VDfjoHcq57JSAgjQXMX0-114" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;strokeColor=#FF0000;" edge="1" parent="1" source="VDfjoHcq57JSAgjQXMX0-107" target="VDfjoHcq57JSAgjQXMX0-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VDfjoHcq57JSAgjQXMX0-116" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;flowAnimation=1;strokeColor=#00FF00;flowAnimationDirection=alternate;" edge="1" parent="1" source="VDfjoHcq57JSAgjQXMX0-107" target="VDfjoHcq57JSAgjQXMX0-110">
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-116" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;flowAnimation=1;strokeColor=#00FF00;flowAnimationDirection=normal;" edge="1" parent="1" source="VDfjoHcq57JSAgjQXMX0-107" target="VDfjoHcq57JSAgjQXMX0-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VDfjoHcq57JSAgjQXMX0-107" value="集团" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="325" y="919" width="93" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VDfjoHcq57JSAgjQXMX0-108" value="子公司1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-108" value="子公司1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="622" y="919" width="116" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VDfjoHcq57JSAgjQXMX0-109" value="子公司2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="622" y="1036" width="116" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VDfjoHcq57JSAgjQXMX0-110" value="子公司3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-110" value="子公司3" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="622" y="821" width="116" height="49" as="geometry" />
         </mxCell>
       </root>
