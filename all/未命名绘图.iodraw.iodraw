@@ -45,19 +45,11 @@
         <mxCell id="VDfjoHcq57JSAgjQXMX0-97" value="60%" style="startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="VDfjoHcq57JSAgjQXMX0-88" target="VDfjoHcq57JSAgjQXMX0-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VDfjoHcq57JSAgjQXMX0-98" value="60%" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VDfjoHcq57JSAgjQXMX0-88" target="VDfjoHcq57JSAgjQXMX0-92">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="997" y="668" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-98" value="60%" style="startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="VDfjoHcq57JSAgjQXMX0-88" target="VDfjoHcq57JSAgjQXMX0-92">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VDfjoHcq57JSAgjQXMX0-99" value="60%" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VDfjoHcq57JSAgjQXMX0-88" target="VDfjoHcq57JSAgjQXMX0-93">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1164" y="668" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-99" value="60%" style="startArrow=none;endArrow=block;exitX=1;exitY=0.79;entryX=0.5;entryY=0;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="VDfjoHcq57JSAgjQXMX0-88" target="VDfjoHcq57JSAgjQXMX0-93">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VDfjoHcq57JSAgjQXMX0-100" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
