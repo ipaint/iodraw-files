@@ -40,6 +40,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-10" value="总经理室" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="286" y="600" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-11" value="办公室" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="180" y="699" width="79" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-12" value="财务部" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="309" y="699" width="79" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-13" value="信用评估部" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="438" y="699" width="112" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jYo_8lnF2ttY8upIkaRI-10" target="jYo_8lnF2ttY8upIkaRI-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="674" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jYo_8lnF2ttY8upIkaRI-10" target="jYo_8lnF2ttY8upIkaRI-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jYo_8lnF2ttY8upIkaRI-10" target="jYo_8lnF2ttY8upIkaRI-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="494" y="674" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
