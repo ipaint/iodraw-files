@@ -53,9 +53,6 @@
         <mxCell id="VDfjoHcq57JSAgjQXMX0-110" value="子公司3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="622" y="854" width="116" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VDfjoHcq57JSAgjQXMX0-115" value="子公司2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="622" y="1050" width="116" height="49" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
