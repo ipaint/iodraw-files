@@ -28,6 +28,9 @@
         <mxCell id="jYo_8lnF2ttY8upIkaRI-39" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-36">
           <mxGeometry y="530" width="550" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="jYo_8lnF2ttY8upIkaRI-36" source="jYo_8lnF2ttY8upIkaRI-45" target="jYo_8lnF2ttY8upIkaRI-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
