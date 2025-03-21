@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VDfjoHcq57JSAgjQXMX0-86" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="340" width="50" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="VDfjoHcq57JSAgjQXMX0-87" value="集团" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1116" y="460" width="93" height="49" as="geometry" />
         </mxCell>
@@ -28,7 +25,7 @@
         <mxCell id="VDfjoHcq57JSAgjQXMX0-93" value="子公司C" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1105" y="704" width="118" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VDfjoHcq57JSAgjQXMX0-94" value="60%" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="VDfjoHcq57JSAgjQXMX0-88">
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-94" value="60%" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;flowAnimation=1;" edge="1" parent="1" target="VDfjoHcq57JSAgjQXMX0-88">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1163" y="510" as="sourcePoint" />
           </mxGeometry>
