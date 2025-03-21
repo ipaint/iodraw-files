@@ -44,6 +44,43 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-105" value="子公司" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="821" width="166" height="317" as="geometry" />
+        </mxCell>
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-106" value="集团" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="841" width="143" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-107" value="集团" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="325" y="955" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-108" value="子公司1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="625" y="856" width="116" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-109" value="子公司2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="625" y="955" width="116" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-110" value="子公司3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="625" y="1054" width="116" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-111" value="flowanimation" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="VDfjoHcq57JSAgjQXMX0-107" target="VDfjoHcq57JSAgjQXMX0-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="443" y="881" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-112" value="flowanimation" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="VDfjoHcq57JSAgjQXMX0-107" target="VDfjoHcq57JSAgjQXMX0-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-113" value="flowanimation" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="VDfjoHcq57JSAgjQXMX0-107" target="VDfjoHcq57JSAgjQXMX0-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="443" y="1079" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
