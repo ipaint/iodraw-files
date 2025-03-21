@@ -64,11 +64,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VDfjoHcq57JSAgjQXMX0-113" value="flowanimation" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="VDfjoHcq57JSAgjQXMX0-107" target="VDfjoHcq57JSAgjQXMX0-110">
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-113" value="flowanimation" style="startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;edgeStyle=elbowEdgeStyle;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="VDfjoHcq57JSAgjQXMX0-107" target="VDfjoHcq57JSAgjQXMX0-110">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="443" y="1079" />
-            </Array>
+            <mxPoint x="427" y="992" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
