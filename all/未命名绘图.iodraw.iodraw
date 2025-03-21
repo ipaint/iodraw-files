@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VDfjoHcq57JSAgjQXMX0-87" value="集团" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1116" y="460" width="93" height="49" as="geometry" />
+          <mxGeometry x="1033.5" y="453" width="93" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VDfjoHcq57JSAgjQXMX0-88" value="子公司1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="856" y="582" width="116" height="49" as="geometry" />
