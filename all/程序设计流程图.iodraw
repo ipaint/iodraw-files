@@ -9,6 +9,35 @@
             <mxGeometry x="180" y="-140" width="524" height="450" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-17" value="Table2" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="330" width="100" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-18" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-17">
+          <mxGeometry y="25" width="100" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-19" value="int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-18">
+          <mxGeometry width="36" height="22" as="geometry">
+            <mxRectangle width="36" height="22" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-20" value="column1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-18">
+          <mxGeometry x="36" width="64" height="22" as="geometry">
+            <mxRectangle width="64" height="22" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-21" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-17">
+          <mxGeometry y="47" width="100" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-22" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-21">
+          <mxGeometry width="36" height="22" as="geometry">
+            <mxRectangle width="36" height="22" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-23" value="column2" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-21">
+          <mxGeometry x="36" width="64" height="22" as="geometry">
+            <mxRectangle width="64" height="22" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
