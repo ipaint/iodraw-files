@@ -43,12 +43,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VDfjoHcq57JSAgjQXMX0-97" value="60%" style="startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.3728" y="68" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="854" y="670" />
             </Array>
             <mxPoint x="878.3600000000001" y="631" as="sourcePoint" />
             <mxPoint x="827" y="704" as="targetPoint" />
+            <mxPoint x="32" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VDfjoHcq57JSAgjQXMX0-98" value="60%" style="startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="VDfjoHcq57JSAgjQXMX0-88" target="VDfjoHcq57JSAgjQXMX0-92">
