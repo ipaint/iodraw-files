@@ -65,6 +65,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FI8OPE-p3hhHVf1YDgqs-53">
+          <mxGeometry x="-0.7775" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-54" value="编码=0 代码=1" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontFamily=Courier New;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="485" y="162" width="151" height="24" as="geometry" />
         </mxCell>
