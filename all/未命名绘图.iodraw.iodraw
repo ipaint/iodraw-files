@@ -33,6 +33,17 @@
             <mxPoint x="958" y="561" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-102" value="集团" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="309" y="652" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-103" value="子公司" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="301" y="751" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VDfjoHcq57JSAgjQXMX0-104" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VDfjoHcq57JSAgjQXMX0-102" target="VDfjoHcq57JSAgjQXMX0-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
