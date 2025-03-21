@@ -14,7 +14,7 @@
           <mxGeometry x="347" y="-66" width="143" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-44" value="设置灯3亮" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="136" y="76" width="159" height="60" as="geometry" />
+          <mxGeometry x="100" y="76" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-45" value="定时" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="127" y="183" width="159" height="60" as="geometry" />
@@ -55,7 +55,7 @@
             <mxPoint x="287" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-53" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;exitX=0.002;exitY=0.275;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-41" edge="1" target="FI8OPE-p3hhHVf1YDgqs-44">
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-53" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Courier New;fontSize=20;fontColor=#000000;align=center;exitX=0.002;exitY=0.275;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;flowAnimation=1;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-41" edge="1" target="FI8OPE-p3hhHVf1YDgqs-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="345" y="231" as="sourcePoint" />
             <mxPoint x="297" y="100" as="targetPoint" />
