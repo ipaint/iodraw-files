@@ -5,16 +5,28 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jYo_8lnF2ttY8upIkaRI-36" value="Main" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="450" width="480" height="380" as="geometry" />
+          <mxGeometry x="80" y="450" width="550" height="650" as="geometry" />
         </mxCell>
         <mxCell id="jYo_8lnF2ttY8upIkaRI-37" value="数据预处理" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-36">
+          <mxGeometry y="20" width="550" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-40" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-37">
+          <mxGeometry x="70" y="10" width="480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-41" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-40">
           <mxGeometry y="20" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="jYo_8lnF2ttY8upIkaRI-38" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-36">
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-42" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-40">
           <mxGeometry y="140" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="jYo_8lnF2ttY8upIkaRI-39" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-36">
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-43" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-40">
           <mxGeometry y="260" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-38" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-36">
+          <mxGeometry y="410" width="550" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-39" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-36">
+          <mxGeometry y="530" width="550" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
