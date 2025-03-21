@@ -44,12 +44,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VDfjoHcq57JSAgjQXMX0-105" value="子公司" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="821" width="166" height="317" as="geometry" />
-        </mxCell>
-        <mxCell id="VDfjoHcq57JSAgjQXMX0-106" value="集团" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="841" width="143" height="258" as="geometry" />
-        </mxCell>
         <mxCell id="VDfjoHcq57JSAgjQXMX0-107" value="集团" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="325" y="955" width="93" height="49" as="geometry" />
         </mxCell>
