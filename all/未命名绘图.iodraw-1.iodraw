@@ -70,12 +70,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mWMmJeawSAEisU6SAIDA-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.68;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mWMmJeawSAEisU6SAIDA-1" target="mWMmJeawSAEisU6SAIDA-0">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="395" y="580" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="mWMmJeawSAEisU6SAIDA-7" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=1;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mWMmJeawSAEisU6SAIDA-1" target="mWMmJeawSAEisU6SAIDA-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
