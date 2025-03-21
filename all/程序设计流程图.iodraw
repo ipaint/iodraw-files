@@ -15,10 +15,10 @@
         <mxCell id="jYo_8lnF2ttY8upIkaRI-39" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="jYo_8lnF2ttY8upIkaRI-36">
           <mxGeometry y="140" width="550" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="jYo_8lnF2ttY8upIkaRI-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="jYo_8lnF2ttY8upIkaRI-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="jYo_8lnF2ttY8upIkaRI-36" source="jYo_8lnF2ttY8upIkaRI-39" target="jYo_8lnF2ttY8upIkaRI-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="590" as="sourcePoint" />
-            <mxPoint x="360" y="540" as="targetPoint" />
+            <mxPoint x="230" y="300" as="sourcePoint" />
+            <mxPoint x="280" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
