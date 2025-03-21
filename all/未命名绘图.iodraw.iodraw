@@ -45,13 +45,13 @@
           <mxGeometry x="325" y="955" width="93" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VDfjoHcq57JSAgjQXMX0-108" value="子公司1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="625" y="856" width="116" height="49" as="geometry" />
+          <mxGeometry x="625" y="955" width="116" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VDfjoHcq57JSAgjQXMX0-109" value="子公司2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="625" y="955" width="116" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VDfjoHcq57JSAgjQXMX0-110" value="子公司3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="625" y="1054" width="116" height="49" as="geometry" />
+          <mxGeometry x="625" y="955" width="116" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
