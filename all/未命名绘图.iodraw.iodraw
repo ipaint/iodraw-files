@@ -29,44 +29,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="umi_S25DuRYLdcg5MKoN-9" value="调用函数或方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="217" y="210" width="173" height="49" as="geometry" />
+          <mxGeometry x="807" y="80" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="umi_S25DuRYLdcg5MKoN-10" value="是否是 async def 定义的?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="189" y="309" width="229" height="229" as="geometry" />
+          <mxGeometry x="779" y="179" width="229" height="229" as="geometry" />
         </mxCell>
         <mxCell id="umi_S25DuRYLdcg5MKoN-11" value="需要加 await" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="611" width="153" height="49" as="geometry" />
+          <mxGeometry x="720" y="481" width="153" height="49" as="geometry" />
         </mxCell>
         <mxCell id="umi_S25DuRYLdcg5MKoN-12" value="不加 await" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="333" y="611" width="138" height="49" as="geometry" />
+          <mxGeometry x="923" y="481" width="138" height="49" as="geometry" />
         </mxCell>
         <mxCell id="umi_S25DuRYLdcg5MKoN-13" value="是否返回协程/Task/Future?" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="78" y="710" width="257" height="49" as="geometry" />
+          <mxGeometry x="668" y="580" width="257" height="49" as="geometry" />
         </mxCell>
         <mxCell id="umi_S25DuRYLdcg5MKoN-14" value="必须加 await" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="832" width="153" height="49" as="geometry" />
+          <mxGeometry x="610" y="702" width="153" height="49" as="geometry" />
         </mxCell>
         <mxCell id="umi_S25DuRYLdcg5MKoN-15" value="可能不需要 await" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="223" y="832" width="185" height="49" as="geometry" />
+          <mxGeometry x="813" y="702" width="185" height="49" as="geometry" />
         </mxCell>
         <mxCell id="umi_S25DuRYLdcg5MKoN-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-9" target="umi_S25DuRYLdcg5MKoN-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="umi_S25DuRYLdcg5MKoN-17" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-10" target="umi_S25DuRYLdcg5MKoN-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="206" y="575" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-17" value="是" style="startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-10" target="umi_S25DuRYLdcg5MKoN-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="umi_S25DuRYLdcg5MKoN-18" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-10" target="umi_S25DuRYLdcg5MKoN-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="402" y="575" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-18" value="否" style="startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-10" target="umi_S25DuRYLdcg5MKoN-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="umi_S25DuRYLdcg5MKoN-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-11" target="umi_S25DuRYLdcg5MKoN-13">
           <mxGeometry relative="1" as="geometry">
@@ -76,14 +68,14 @@
         <mxCell id="umi_S25DuRYLdcg5MKoN-20" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-13" target="umi_S25DuRYLdcg5MKoN-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="97" y="796" />
+              <mxPoint x="687" y="666" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="umi_S25DuRYLdcg5MKoN-21" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-13" target="umi_S25DuRYLdcg5MKoN-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="316" y="796" />
+              <mxPoint x="906" y="666" />
             </Array>
           </mxGeometry>
         </mxCell>
