@@ -1,0 +1,219 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="ErOAOdARNhu2vkCDlVaH">
+    <mxGraphModel dx="1386" dy="755" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="umi_S25DuRYLdcg5MKoN-1" value="Awaitable" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="132" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-2" value="Coroutine" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="202" y="20" width="130" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-3" value="Task" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="221" y="139" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-4" value="Future" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="100" width="107" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-5" value="" style="startArrow=none;endArrow=block;exitX=0.78;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-1" target="umi_S25DuRYLdcg5MKoN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-6" value="" style="startArrow=none;endArrow=block;exitX=0.78;exitY=0.99;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-1" target="umi_S25DuRYLdcg5MKoN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-7" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.17;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-1" target="umi_S25DuRYLdcg5MKoN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-8" value="继承" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.84;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-3" target="umi_S25DuRYLdcg5MKoN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-9" value="调用函数或方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="807" y="80" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-10" value="是否是 async def 定义的?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="779" y="179" width="231" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-11" value="需要加 await" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="720" y="481" width="153" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-12" value="不加 await" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="923" y="481" width="138" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-13" value="是否返回协程/Task/Future?" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="668" y="580" width="257" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-14" value="必须加 await" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="610" y="702" width="153" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-15" value="可能不需要 await" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="813" y="702" width="185" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-9" target="umi_S25DuRYLdcg5MKoN-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-17" value="是" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-10" target="umi_S25DuRYLdcg5MKoN-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-11" target="umi_S25DuRYLdcg5MKoN-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-20" value="是" style="startArrow=none;endArrow=block;exitX=0.33;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-13" target="umi_S25DuRYLdcg5MKoN-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="629" />
+              <mxPoint x="790" y="666" />
+              <mxPoint x="687" y="666" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-21" value="否" style="startArrow=none;endArrow=block;exitX=0.67;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-13" target="umi_S25DuRYLdcg5MKoN-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="629" />
+              <mxPoint x="790" y="666" />
+              <mxPoint x="906" y="666" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.551;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-10" target="umi_S25DuRYLdcg5MKoN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-23" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="umi_S25DuRYLdcg5MKoN-22">
+          <mxGeometry x="0.0309" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-24" value="启动事件循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="420" y="772" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-25" value="任务队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="437" y="871" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-26" value="有可运行任务?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="366" y="970" width="152" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-27" value="执行协程直到await" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="148" y="1195" width="197" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-28" value="遇到I/O操作?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1294" width="144" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-29" value="挂起当前任务,注册回调" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1511" width="227" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-30" value="继续执行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="297" y="1511" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-31" value="监控I/O就绪状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="43" y="1610" width="181" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-32" value="将回调加入队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="413" y="1732" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-33" value="检查定时任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="572" y="1195" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-34" value="有到期任务?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="583" y="1298" width="136" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-35" value="加入任务队列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="473" y="1511" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-36" value="等待新事件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1511" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-24" target="umi_S25DuRYLdcg5MKoN-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-25" target="umi_S25DuRYLdcg5MKoN-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="442" y="945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-39" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-26" target="umi_S25DuRYLdcg5MKoN-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="247" y="1159" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-27" target="umi_S25DuRYLdcg5MKoN-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-41" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-28" target="umi_S25DuRYLdcg5MKoN-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="1474" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-42" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-28" target="umi_S25DuRYLdcg5MKoN-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="1474" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-29" target="umi_S25DuRYLdcg5MKoN-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-44" value="就绪" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.2;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-31" target="umi_S25DuRYLdcg5MKoN-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="1695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.19;entryX=1;entryY=0.67;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-32" target="umi_S25DuRYLdcg5MKoN-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="861" y="1695" />
+              <mxPoint x="861" y="945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-46" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-26" target="umi_S25DuRYLdcg5MKoN-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="651" y="1159" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-33" target="umi_S25DuRYLdcg5MKoN-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-48" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-34" target="umi_S25DuRYLdcg5MKoN-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="551" y="1474" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umi_S25DuRYLdcg5MKoN-49" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-34" target="umi_S25DuRYLdcg5MKoN-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="751" y="1474" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
