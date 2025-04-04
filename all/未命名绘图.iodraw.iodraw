@@ -32,7 +32,7 @@
           <mxGeometry x="807" y="80" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="umi_S25DuRYLdcg5MKoN-10" value="是否是 async def 定义的?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="779" y="179" width="229" height="229" as="geometry" />
+          <mxGeometry x="779" y="179" width="231" height="131" as="geometry" />
         </mxCell>
         <mxCell id="umi_S25DuRYLdcg5MKoN-11" value="需要加 await" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="720" y="481" width="153" height="49" as="geometry" />
@@ -79,7 +79,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="umi_S25DuRYLdcg5MKoN-21" value="否" style="startArrow=none;endArrow=block;exitX=0.67;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="umi_S25DuRYLdcg5MKoN-13" target="umi_S25DuRYLdcg5MKoN-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="629" />
+              <mxPoint x="790" y="666" />
+              <mxPoint x="906" y="666" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
