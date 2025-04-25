@@ -42,7 +42,7 @@
         <mxCell id="NFuFUDxTBtItDqhcNcYt-13" value="打标签结果-解析成功表V2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="730" y="320" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NFuFUDxTBtItDqhcNcYt-15" value="打标签结果-解析成功汇总表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="NFuFUDxTBtItDqhcNcYt-15" value="打标签结果-解析成功汇总表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="940" y="215" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
