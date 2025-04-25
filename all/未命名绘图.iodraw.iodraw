@@ -23,7 +23,7 @@
           <mxGeometry x="500" y="215" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NFuFUDxTBtItDqhcNcYt-5" value="打标签结果-解析失败表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="480" y="280" width="150" height="30" as="geometry" />
+          <mxGeometry x="480" y="320" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
