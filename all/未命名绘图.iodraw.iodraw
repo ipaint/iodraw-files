@@ -22,6 +22,9 @@
         <mxCell id="NFuFUDxTBtItDqhcNcYt-4" value="打标签结果-解析成功表V1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="500" y="215" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NFuFUDxTBtItDqhcNcYt-14" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NFuFUDxTBtItDqhcNcYt-5" target="NFuFUDxTBtItDqhcNcYt-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NFuFUDxTBtItDqhcNcYt-5" value="打标签结果-解析失败表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="500" y="320" width="170" height="30" as="geometry" />
         </mxCell>
